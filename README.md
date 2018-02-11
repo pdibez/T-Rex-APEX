@@ -7,3 +7,4 @@ El plugin esta basado en el siguiente repositorio : https://github.com/wayou/t-r
 
 ## Demo
 
+![demo-trex-apex](https://user-images.githubusercontent.com/16173731/36069574-441e0c5a-0ecb-11e8-905d-3d9324b08174.gif)
